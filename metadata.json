@@ -1,0 +1,7 @@
+{
+  "name": "B2B Meeting Poster Diagnosis Expert",
+  "description": "A professional tool for analyzing and optimizing B2B meeting posters using advanced AI diagnostics and image generation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
